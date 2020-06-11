@@ -1,4 +1,4 @@
-# Annotated PySpice Tutorial - Lowpass RLC circuits  
+# Annotated PySpice Tutorial - Lowpass RLC circuits
 # Tutorial work-thru by Emma Howard, June 2020
 
 # Before starting this process, be sure to pip install PySpice, you can do this
